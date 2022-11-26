@@ -2,18 +2,18 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"1": "block/texture",
-		"2": "block/Base",
-		"3": "block/Mid1",
-		"4": "block/Mid2",
-		"5": "block/Mid",
-		"6": "block/textureMID",
-		"7": "block/Lame1",
-		"8": "block/Lame2",
-		"9": "block/Lame3",
-		"10": "block/Lame4",
-		"11": "block/Lame5",
-		"12": "block/Lame6"
+		"1": "bestmod:item/texture",
+		"2": "bestmod:item/Base",
+		"3": "bestmod:item/Mid1",
+		"4": "bestmod:item/Mid2",
+		"5": "bestmod:item/Mid",
+		"6": "bestmod:item/textureMID",
+		"7": "bestmod:item/Lame1",
+		"8": "bestmod:item/Lame2",
+		"9": "bestmod:item/Lame3",
+		"10": "bestmod:item/Lame4",
+		"11": "bestmod:item/Lame5",
+		"12": "bestmod:item/Lame6"
 	},
 	"elements": [
 		{
